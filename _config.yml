@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Tomasz Szymborski"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "This is a short bio of Tomasz Szymborski"
   location         : "Warsaw, Poland"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=tomasz+szymborski"
   googlescholar    : "https://scholar.google.com/citations?user=E_UDE8YAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Tomasz-Szymborski"
