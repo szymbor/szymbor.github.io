@@ -11,7 +11,7 @@ title                    : "Tomasz Szymborski"
 title_separator          : "-"
 name                     : &name "Tomasz Szymborski, Ph.D."
 description              : &description "personal homepage of dr Szymborski"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://szymbor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tomasz Szymborski"
   avatar           : "profile.png"
-  bio              : "This is a short bio of Tomasz Szymborski"
+  bio              : "This is a short bio of dr Tomasz Szymborski"
   location         : "Warsaw, Poland"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=tomasz+szymborski"
   googlescholar    : "https://scholar.google.com/citations?user=E_UDE8YAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : tszymborski@gmail.com
   researchgate     : "https://www.researchgate.net/profile/Tomasz-Szymborski"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "szymbor"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "szymborskit"
   impactstory      : 
   lastfm           :
   linkedin         :
