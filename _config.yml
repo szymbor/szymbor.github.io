@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tomasz Szymborski"
+title                    : "Tomasz Szymborski, Ph.D."
 title_separator          : "-"
 name                     : &name "Tomasz Szymborski, Ph.D."
-description              : &description "personal homepage of dr Szymborski"
+description              : &description "Personal homepage of dr Szymborski"
 url                      : https://szymbor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        : "szymborskit"
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "tomasz-szymborski-60491085"
   orcid            : "http://orcid.org/0000-0002-7308-0609"
   pinterest        :
   soundcloud       :
